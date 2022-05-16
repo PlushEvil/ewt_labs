@@ -48,4 +48,4 @@
   - Будут добавлен эстетичный визуал для пользователей.
 
 ### Макет:  
-https://www.figma.com/file/PxgBr49zKq3wXsd8zgNOZ8/Fitnesso?node-id=1%3A1411
+https://www.figma.com/file/8NAYEtvbJefo61rSGmYqSU/Fitnesso
